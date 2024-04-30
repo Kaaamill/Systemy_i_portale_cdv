@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f1e2d27e-54cc-4be0-b160-7cd147aa42ff/resourceGroups/kamil/providers/Microsoft.Web/sites/kamilSystemyIPortale",
+    "appService.deploySubpath": "AzureWebsite.Api\\publish"
+}
